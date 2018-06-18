@@ -1,0 +1,14 @@
+function submit(){
+
+//after submitting the form 
+// remove the button and unnecessary field 
+
+document.getElementById()
+document.getElementByClassName()
+
+var name = document.getElementById('adf')
+var r = window.confirm()
+if(r){
+	x= widow.print()
+}
+}

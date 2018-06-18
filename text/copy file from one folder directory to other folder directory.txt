@@ -1,0 +1,3 @@
+var fs = require('fs-extra')
+var path = require('path')
+fs.copySync(path.resolve(__dirname, 'D:/factory/a'), 'D:/factory1/b')
